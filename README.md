@@ -84,7 +84,6 @@ Visit: **🔗 http://localhost:5173**
 
 | Role | Credentials | Dashboard Access |
 |------|-------------|------------------|
-| **Admin** | admin@gigmatch.com / admin123 | `/dashboard/admin` |
 | **Freelancer** | john.doe@email.com / freelancer123 | `/dashboard/freelancer` |
 | **Business** | acme.corp@email.com / business123 | `/dashboard/business` |
 
