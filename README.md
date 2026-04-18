@@ -103,7 +103,7 @@ npm run dev
 
 ## Branch Strategy
 
-Your repository uses a structured branching approach:
+repository uses a structured branching approach:
 
 - **`main`** - Production-ready code
 - **`develop`** - Staging area for all features
