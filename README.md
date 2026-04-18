@@ -93,23 +93,6 @@ npm run dev
 - **Type Safety** - Full TypeScript integration for better development experience
 - **Modern Build Tools** - Vite for fast development and optimized production builds
 
-## Future Upgrades (Backend Integration)
-
-A future version will introduce:
-
-**Backend API Integration** (Node.js/Express + MongoDB)
-**Real Database** instead of mock data
-**JWT Authentication** with secure token management
-**RESTful API** for all platform operations
-**Advanced Analytics** with data visualization
-**Admin Panel** for platform management
-
-### Switch to Backend-Integrated Version
-When ready for full-stack development:
-```bash
-git checkout feature/backend-api
-```
-
 ## Credits
 
 **Author:** Team AITHENA
