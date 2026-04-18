@@ -7,12 +7,45 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports
+report.*.json
+
+# Coverage
+coverage
+*.lcov
+.nyc_output
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+web_modules/
+
+# Build outputs
 dist
 dist-ssr
-*.local
+.next
+.nuxt
+out
+build/
+.cache
+.parcel-cache
+.svelte-kit/
+.vuepress/dist
+.temp
 
-# Editor directories and files
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor & OS files
 .vscode/*
 !.vscode/extensions.json
 .idea
@@ -22,3 +55,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Misc
+.npm
+.eslintcache
+.stylelintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+
+# Yarn v3
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
