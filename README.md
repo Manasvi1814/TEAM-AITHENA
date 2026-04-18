@@ -77,9 +77,6 @@ VITE_APP_NAME=GigMatch
 npm run dev
 ```
 
-### 4. Access Application
-Visit: **🔗 http://localhost:5173**
-
 ## Default User Accounts
 
 | Role | Credentials | Dashboard Access |
