@@ -1,7 +1,6 @@
 # GigMatch - Freelance Job Matching Platform
 
-A React + TypeScript based Freelance Job Matching Platform designed as a modern web application. This version features a clean separation of frontend and backend concerns with organized branching strategy.
-
+GigMatch is an AI-assisted freelance job matching platform that intelligently connects freelancers with relevant opportunities based on skills, experience, interests, and project requirements. The platform streamlines job discovery, application management, and project collaboration through a modern and responsive web interface.
 ## Project Overview
 
 This platform manages:
